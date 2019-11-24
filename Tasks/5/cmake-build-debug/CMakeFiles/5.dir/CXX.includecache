@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nazzrrg/Git/Digital-Culture-Introduction-I/Tasks/5/main.cpp
+iostream
+-
+vector
+-
+map
+-
+
